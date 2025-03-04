@@ -43,3 +43,23 @@ This is a Flask-based web application that predicts house prices based on user i
 ![output1](https://github.com/user-attachments/assets/caffd1b2-ecba-4465-a823-d4237ebbb8af)
 
 <b>Based on your inputs the predicted price is ₹1.79 Crore</b>
+
+<h3>Dependencies</h3>
+<ul>
+  <li>
+    Python   
+  </li>
+  <li>Flask</li>
+  <li>Scikit-learn</li>
+  <li>Pandas</li>
+  <li>Numpy</li>
+</ul>
+
+<h3> 1. Clone the Repository</h3>
+git clone https://github.com/RISHI-1704/House-Price-Prediction.git
+
+<h3>2. Run the App</h3>
+python app.py
+
+<h3>Open in Browser</h3>
+Visit: http://127.0.0.1:5000
