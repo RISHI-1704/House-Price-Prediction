@@ -31,8 +31,8 @@ This is a Flask-based web application that predicts house prices based on user i
 </ul>
 
 <h3>Example Outputs</h3>
-![input1](https://github.com/user-attachments/assets/38f2058d-d598-4267-870c-0d034f23c25a)
 <h4>Input</h4>
+![input1](https://github.com/user-attachments/assets/efcc1c64-e646-4a64-8205-047c8d316116)
 <ul>
   <li>Total Area: 900 sq ft</li>
   <li>Number of Baths: 3</li>
@@ -40,6 +40,6 @@ This is a Flask-based web application that predicts house prices based on user i
   <li>City: Mumbai</li>
 </ul>
 <h4>Output</h4>
-![image](https://github.com/user-attachments/assets/ab9bde05-9ea1-4e2c-9068-72e0d26a90a3)
+![output1](https://github.com/user-attachments/assets/caffd1b2-ecba-4465-a823-d4237ebbb8af)
 
 <b>Based on your inputs the predicted price is ₹1.79 Crore</b>
